@@ -161,6 +161,21 @@ height: 200px;}
            width: 98%;
         
        }
+
+    .content1 {
+        float: left;
+       
+    }
+    .content2 {
+        float: left;
+      
+    }
+    .content3 {
+       
+        float: left;
+    
+     
+}
     
     }
 
@@ -181,6 +196,7 @@ height: 200px;}
 .city img{
      width:250px;
     height: 250px; 
+    float: left;
 } 
 
       h1{
@@ -188,11 +204,7 @@ height: 200px;}
          font-size: medium;
          align-content: center;
      }
-    .img {
-    
-        border-radius: 10px 10px 10px 10px;
-        width: 50px;
-         } 
+   
      table{
         margin-left: 0px;
     }
@@ -204,17 +216,18 @@ height: 200px;}
       margin-right: auto;
     }
 
-    .left{
-        margin-bottom: 10px;
-        margin-right: 10px;
+    .content1 {
+        float: left;
+       
     }
-    .center {
-        margin-bottom: 10px;
-        margin-right: 10px;
+    .content2 {
+        float: left;
+      
     }
-    .right{
-        margin-right: 10px;
-    }
+    .content3 {
+       
+        float: left;
     
      
+}
 }
