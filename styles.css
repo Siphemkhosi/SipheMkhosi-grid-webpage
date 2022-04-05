@@ -152,9 +152,9 @@ height: 200px;}
 
    
 
-    @media (max-width: 1025px){
+    @media (min-width: 800px){
         .city img{
-            width:350px;
+            width:240px;
            height: 250px; 
        } 
        .container{
@@ -182,7 +182,7 @@ height: 200px;}
 
 
     /* Media Quiry for mobiles */
-@media (max-width: 770px){ 
+@media (max-width: 800px){ 
     /* .container{
         width: 100%;
     } */
@@ -210,7 +210,7 @@ height: 200px;}
     }
     .all-body{
         background-color: bisque;
-        width: 90%;
+        width: 98%;
       margin-left: auto;
      
       margin-right: auto;
@@ -227,7 +227,8 @@ height: 200px;}
     .content3 {
        
         float: left;
-    
-     
-}
+    }
+    .container{
+        width: 98%;
+    }
 }
