@@ -96,9 +96,9 @@ height: 200px;}
           
       }
      
-      /* p{
-          font-size: small;
-      } */
+      p{
+          text-align: center;
+      }
     
         .content2 {
            font-size: x-small;
@@ -152,9 +152,9 @@ height: 200px;}
 
    
 
-    @media (min-width: 800px){
+    @media (min-width: 800px) and (max-width: 1125px){
         .city img{
-            width:240px;
+            width:280px;
            height: 250px; 
        } 
        .container{
